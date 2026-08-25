@@ -1,0 +1,37 @@
+{
+  "name": "ascii-viz",
+  "version": "1.0.0",
+  "description": "Real-time audio visualizer in the terminal using ASCII",
+  "main": "src/index.js",
+  "type": "module",
+  "bin": {
+    "asciizer": "./bin/ascii-viz.js"
+  },
+  "scripts": {
+    "start": "node bin/ascii-viz.js"
+  },
+  "files": [
+    "bin/",
+    "src/",
+    "README.md",
+    "LICENSE"
+  ],
+  "keywords": [
+    "cli",
+    "audio",
+    "visualizer",
+    "ascii",
+    "terminal",
+    "fft"
+  ],
+  "author": "juanalbertoponton",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coffeetron832/Asciizer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/coffeetron832/Asciizer/issues"
+  },
+  "homepage": "https://github.com/coffeetron832/Asciizer#README"
+}
