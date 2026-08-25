@@ -1,6 +1,6 @@
 {
   "name": "ascii-viz",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Real-time audio visualizer in the terminal using ASCII",
   "main": "src/index.js",
   "type": "module",
@@ -25,7 +25,7 @@
     "fft"
   ],
   "author": "juanalbertoponton",
-  "license": "MIT",
+  "license": "CC-BY-NC-4.0",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/coffeetron832/Asciizer.git"
