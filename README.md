@@ -20,7 +20,7 @@
 
 - Real-time dynamic audio spectrum analysis (FFT).
 
-- Custom ASCII visual rendering tailored for terminals.
+- Custom ASCII visual rendering tailored for terminals, featuring 6 color themes (_Classic Green, Cyberpunk Pink, Electric Blue [like the song], Sunset Orange, Monochrome Minimal, Retro VU Meter_).
 
 - Open, run, and enjoy a fun visual experience while listening to your favorite tracks.
 
