@@ -47,3 +47,7 @@ If at any point you wish to remove the program from your computer, open the term
 ```bash
 npm uninstall -g ascii-viz
 ```
+
+## License
+
+Published under the CC BY-NC 4.0 license. Free for personal use, sharing, and enjoyment for non-commercial purposes.
