@@ -10,4 +10,6 @@
 </pre>
 </div>
 
-
+<p align="center">
+  <img src="asciizer01.gif" alt="Demo" width="450">
+</p>
